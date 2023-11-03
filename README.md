@@ -11,22 +11,22 @@
   </a>
 
   <a href="#">
-    <img src="https://img.shields.io/badge/Location-Los%20Angeles,%20California-1da1f3.svg?color=green&logo=google-maps" alt="Location" height = "23"/>
+    <img src="https://img.shields.io/badge/Location-San%20Jose,%20California-1da1f3.svg?color=green&logo=google-maps" alt="Location" height = "23"/>
   </a>
   
 </p>
 
 ### Now
 
-- :computer: Intern at USC Keck School of Medicine
+- :computer: Ex-Software Engineer at Viasat
 - :calendar: Looking for opportunities to widen my knowledge and expertise in the field of Software Development or Data Science. 
 
 ### Bio
 
-- 🏫 Graduate Student at **University of Southern California** (expected graduation: May 2023)
+- 🏫 Master's in Computer Science from **University of Southern California** (GPA: 3.87/4)
 - 🌍 Industry Experience in working on **large-scale customer-centric** web services and applications.
-- 🌱 Learning more about **Software Development** and **DevOps**
-- 📝 Checkout my [Resume](files/resume.pdf).
+- 💡 Learning more about **Software Development** and **DevOps**
+- 📝 Checkout my [Resume](files/Jay_Harkhani_Resume.pdf).
 
 ## Technical Skills
 
@@ -150,6 +150,10 @@
     <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="60" height="60"/> 
     </a> 
+    &nbsp;
+    <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg" alt="ansible" width="60" height="60"/> 
+    </a>
 </p>
 
 ### AI/ML
@@ -188,10 +192,17 @@
     &nbsp;
 </p>
 
-### Tools
+### Certification & Tools
 <p align="left"> 
+    <a href="https://www.credly.com/badges/0dfa421e-5fce-4970-989c-0f1130f06e32/" target="_blank" rel="noreferrer"> 
+        <img src="files/badges/aws-cloud-practitioner.png" alt="aws cloud practitioner badge" width="70" height="70"/> 
+    </a>  
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> 
+    </a>      
+    &nbsp;
+    <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21.svg" alt="kibana" width="60" height="60"/> 
     </a>      
     &nbsp;
     <a href="https://postman.com" target="_blank" rel="noreferrer"> 
@@ -251,6 +262,28 @@ Great! Please connect with me
 If you are interested in my previous adventures please feel free to scroll down for my work experiences.
 
 ## Experience
+
+### Software Engineer at [Viasat](https://www.viasat.com/) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Viasat.svg/512px-Viasat.svg.png" width="185px" height="100px" align="right" alt="logo">
+
+*June 2023 - November 2023*
+
+* Enhanced **health monitoring system** to deliver proactive alerts to users regarding deployment failures of services and resources
+within their sandbox, along with the development of a real-time [Kibana](https://www.elastic.co/kibana) dashboard for resource insights.
+* Implemented a feature for **future Viasat-4 satellites**, which provides customers the flexibility to test sandbox resources with userspecified attribute values, facilitating customization and testing.
+* Designed and implemented multiple [Jenkins](https://www.jenkins.io/) pipelines to automate updation of over **10,000 resources**, streamline deletion of zoombie CPEs, and enhance the customization of customer blueprints.
+* Successfully optimized database by deleting over **5000 unnecessary resources**, leading to **cost savings and improved query performance.**
+* Created cron job to regularly push database backups to an [Amazon S3](https://aws.amazon.com/s3/) bucket, ensuring **data reliability and disaster recovery.**
+
+
+### Product Development Intern at [AMD](https://www.amd.com/en.html) <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/AMD_Logo.svg" width="185px" height="100px" align="right" alt="logo">
+
+*January 2023 - May 2023*
+
+* Built **Cloud Mapper tool for Offline Speedbinner** that generated a report with graphs and statistics required for getting insights
+and making decisions about chip units.
+* Added **multi-cloud plots** to validate material from the Synthetic cloud against the Baseline cloud, using data collected from the
+[Snowflake](https://www.snowflake.com/en/) data warehouse.
+* Created frequency-leakage plots that will help the team during **part selection** and limit the use of proprietary [JMP](https://www.jmp.com/en_us/home.html) software.
 
 ### Software Engineer Intern at [Twilio](https://www.twilio.com/) <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Twilio-logo-red.svg" width="185px" height="100px" align="right" alt="logo">
 
