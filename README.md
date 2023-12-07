@@ -318,6 +318,6 @@ and making decisions about chip units.
 
 *August 2019 - September 2019*
 
-* Built a website using [PHP](https://www.php.net/) and [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) to increase the company's digital reach by making its hearing aid products accessible.
+* Built a website to increase the company's digital reach by making its hearing aid products accessible.
 * Optimized **Front-end code and SQL queries** to reduce page load time to **8 seconds,** thereby enhancing website’s performance.
 * Created an **Admin Panel** to manage or post new content on the website and act on messages received from clients.
