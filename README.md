@@ -309,7 +309,7 @@ and making decisions about chip units.
 *December 2019 - February 2020*
 
 * Processed data of more than **7000** customers of a telecommunication company to remove redundancy and inconsistency.
-* Led a team of **4** to construct a **Machine Learning model** with an accuracy of **90%** to predict Customer Churn.
+* Led a team of **4** to construct a **Machine Learning model** with an accuracy of more than **90%** to predict Customer Churn.
 * Built a **Customer Segmentation Tool** for Marketing Team to boost customer retention rate and company profitability.
 * Used [Seaborn](https://seaborn.pydata.org/) library to visualize customers' data based on demographics and other factors to support the Sales Team.
 
