@@ -26,7 +26,6 @@
 - 🏫 Master's in Computer Science from **University of Southern California** (GPA: 3.87/4)
 - 🌍 Industry Experience in working on **large-scale customer-centric** web services and applications.
 - 💡 Learning more about **Software Development** and **DevOps**
-- 📝 Checkout my [Resume](files/Jay_Harkhani_Resume.pdf).
 
 ## Technical Skills
 
